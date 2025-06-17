@@ -1,0 +1,5 @@
+transformers
+deep-translator
+pandas
+matplotlib
+torch
